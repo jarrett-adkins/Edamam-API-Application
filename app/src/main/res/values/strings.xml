@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Edamam API Application</string>
+    <string name="intent_query_key">query</string>
+</resources>
